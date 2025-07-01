@@ -265,13 +265,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **UI/UX Design**: Modern Interface Design Team
 - **Backend Integration**: Database & API Team
 
-## 📞 Support
-
-For support and questions:
-- 📧 Email: library-support@university.edu
-- 📱 Phone: (555) 123-4567
-- 🌐 Website: [university-library.edu](https://university-library.edu)
-- 💬 Discord: [Library Dev Community](https://discord.gg/library-dev)
 
 ## 🙏 Acknowledgments
 
